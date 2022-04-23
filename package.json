@@ -1,0 +1,23 @@
+{
+  "name": "reprogramaProjetoUm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilva2020/reprogramaProjetoUm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nilva2020/reprogramaProjetoUm/issues"
+  },
+  "homepage": "https://github.com/nilva2020/reprogramaProjetoUm#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
